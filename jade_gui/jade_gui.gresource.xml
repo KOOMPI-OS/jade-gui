@@ -23,7 +23,7 @@
     <file>pages/locale/locale_dialog.ui</file>
     <file>pages/locale/locale_screen.ui</file>
     <file>gtk/help-overlay.ui</file>
-    <file>crystal-logo-minimal.png</file>
+    <file>koompi-logo-symbolic.svg</file>
     <file>style.css</file>
   </gresource>
   <gresource prefix="/al/getcryst/jadegui/icons/scalable/actions">

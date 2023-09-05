@@ -41,7 +41,7 @@ class WelcomeScreen(JadeScreen, Adw.Bin):
 
         self.next_button.connect("clicked", next_page)
 
-        self.do_check_internet = True
+        self.do_check_internet = False
 
     def check_internet(self):
         while self.do_check_internet:
