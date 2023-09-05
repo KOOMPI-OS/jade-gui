@@ -14,7 +14,6 @@ gnome = import('gnome')
 
 subdir('data')
 subdir('jade_gui')
-subdir('po')
 
 gnome.post_install(
   glib_compile_schemas: true,
