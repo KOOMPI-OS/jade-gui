@@ -14,7 +14,7 @@
         <child>
           <object class="GtkImage" id="crystal-logo">
             <property
-              name="resource">/al/getcryst/jadegui/koompi-logo-symbolic.svg</property>
+              name="resource">/al/getcryst/jadegui/welcome.png</property>
             <property name="pixel-size">200</property>
             <property name="margin-start">200</property>
             <property name="margin-end">200</property>
